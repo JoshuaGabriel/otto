@@ -499,7 +499,6 @@ def main():
     parser.add_argument(
         "--version",
         "-v",
-        "-V",
         action="version",
         version=f"Otto v{__version__}",
     )
